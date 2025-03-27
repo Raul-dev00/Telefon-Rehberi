@@ -1,8 +1,3 @@
-//kisi ekle
-//kisi sil
-//rehberi goruntule
-//kisi arama
-//kapat
 #include <ctype.h>
 #include <stdio.h>
 #include <stdlib.h>
